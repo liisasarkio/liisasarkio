@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liisasarkio
-- 👀 I’m interested in health tech and learning more about data science and software development
-- 🌱 I’m currently learning the basics of SQL
+- 👀 My main interests are health tech and data science
+- 🌱 I’m currently learning more of C++
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: :)
 
